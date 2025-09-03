@@ -88,17 +88,17 @@ I enjoy **transforming data into insights, building AI-powered apps, and develop
 
 ## 💬 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-dutta-64b0242a0/">
+  <a href="https://www.linkedin.com/in/ashmita-barnwal-692b0928a/">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
   </a>
-  <a href="https://github.com/riku-d">
+  <a href="https://github.com/Ashmita-15">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
   </a>
-  <a href="mailto:rohitdutta2103@gmail.com">
+  <a href="mailto:ashmitabarnwal53@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/>
   </a>
 </p>  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riku-d&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riku-d&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riku-d&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashmita-15&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-15&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashmita-15&theme=tokyonight)  

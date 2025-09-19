@@ -102,3 +102,8 @@ I enjoy **transforming data into insights, building AI-powered apps, and develop
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashmita-15&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-15&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashmita-15&theme=tokyonight)  
+## 🧠 LeetCode Stats
+
+<!-- Leetcode readme card -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ashmita_001?theme=dracula&font=JetBrains%20Mono)](https://leetcode.com/u/ashmita_001/)
+

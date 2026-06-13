@@ -105,5 +105,5 @@ I enjoy **transforming data into insights, building AI-powered apps, and develop
 ## 🧠 LeetCode Stats
 
 <!-- Leetcode readme card -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ashmita_001?theme=dracula&font=JetBrains%20Mono)]([https://leetcode.com/u/ashbasshh/])
+[![LeetCode Stats](https://leetcode.com/u/ashbasshh/)]([https://leetcode.com/u/ashbasshh/])
 

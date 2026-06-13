@@ -4,7 +4,7 @@
 I’m an aspiring **Data Scientist, Machine Learning Engineer, AI Engineer, and Full-Stack Developer** with a passion for solving real-world problems using **data-driven intelligence** and **scalable web technologies**.  
 
 🔹 Skilled in **Python, R, SQL, and JavaScript**, with hands-on experience in **data analysis, predictive modeling, and deep learning**.  
-🔹 Experienced in **Generative AI (GenAI)** using Hugging Face, LangChain, and LLMs — currently exploring **Agentic AI** to build autonomous systems.  
+🔹 Experienced in **Machine Learning,Deep Learning**, **Generative AI (GenAI)** using Hugging Face, LangChain, and LLMs — currently exploring **Agentic AI** to build autonomous systems.  
 🔹 Proficient in **MERN stack (MongoDB, Express.js, React, Node.js)** also in **Next.js** and modern UI design with **TailwindCSS** for building dynamic, end-to-end web applications.  
 🔹 Passionate about integrating **AI + Web Development**, creating intelligent applications that are both functional and impactful.  
 
